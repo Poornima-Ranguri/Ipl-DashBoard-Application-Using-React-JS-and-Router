@@ -1,0 +1,49 @@
+@media screen and (max-width: 768px) {
+  .card-container {
+    background-color: #0f172a;
+    padding: 10px;
+    width: 87vw;
+    border-radius: 20px;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+  }
+
+  .team-container-1 {
+    display: flex;
+    align-items: center;
+  }
+
+  .competing-logo {
+    width: 80px;
+    height: 80px;
+  }
+
+  .hr-line {
+    color: #ffffff;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .card-container {
+    background-color: #0f172a;
+    padding: 10px;
+    width: 100vw;
+    border-radius: 20px;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+  }
+
+  .team-container-1 {
+    display: flex;
+    align-items: center;
+  }
+
+  .competing-logo {
+    width: 80px;
+    height: 80px;
+  }
+
+  .hr-line {
+    color: #ffffff;
+  }
+}
