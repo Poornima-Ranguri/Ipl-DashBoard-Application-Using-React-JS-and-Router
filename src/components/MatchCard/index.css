@@ -24,3 +24,30 @@
     color: #18ed66;
   }
 }
+
+@media screen and (min-width: 768px) {
+  .match-item-container {
+    background-color: #0f172a;
+    width: 30%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    margin-right: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Bree Serif';
+  }
+
+  .logo-match {
+    width: 100px;
+    height: 100px;
+  }
+
+  .lose-text {
+    color: #e31a1a;
+  }
+
+  .won-text {
+    color: #18ed66;
+  }
+}

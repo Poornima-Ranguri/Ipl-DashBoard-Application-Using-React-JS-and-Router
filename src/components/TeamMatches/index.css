@@ -22,6 +22,100 @@
     display: flex;
     flex-wrap: wrap;
     width: 87vw;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .KKR {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#5755a7, #4f5db0, #1e293b);
+  }
+
+  .KXP {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#d91c1f, #1e293b);
+  }
+
+  .CSK {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#f7db00, #1e293b);
+  }
+
+  .RR {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#da237b, #1e293b);
+  }
+
+  .MI {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#13418b, #1e293b);
+  }
+
+  .DC {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#4f5db0, #1e293b);
+  }
+
+  .SH {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#f26d22, #1e293b);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .RCB {
+    width: 98vw;
+
+    padding: 10px;
+    font-family: 'Bree Serif';
+    text-align: left;
+    background-image: linear-gradient(#a4261d, #1e293b);
+  }
+
+  .banner-logo {
+    width: 97%;
+    height: 50vh;
+  }
+
+  .latest-heading {
+    color: #ffffff;
+  }
+
+  .match-list-container {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 87vw;
+    justify-content: center;
+    align-items: center;
   }
 
   .KKR {
